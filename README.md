@@ -15,6 +15,6 @@ Email Me 👉 ✉️ **huynhquanhht@gmail.com** For Collaboration/Project or Any
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hvqu4n&theme=graywhite&show_icons=true&hide_border=false&count_private=true" alt="John's Stats" style="display: inline-block; margin-right: 10px; width: 45%;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hvqu4n&theme=graywhite&hide_border=false" alt="John's Streak" style="display: inline-block; width: 45%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hvqu4n&theme=graywhite&show_icons=true&hide_border=false&count_private=true" alt="John's Stats" style="display: inline-block; margin-right: 10px; width: 49%; height: 200px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hvqu4n&theme=graywhite&hide_border=false" alt="John's Streak" style="display: inline-block; width: 49%; height: 200px;" />
 </div>
