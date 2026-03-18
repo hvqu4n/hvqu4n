@@ -14,10 +14,7 @@ Email Me 👉 ✉️ **huynhquanhht@gmail.com** For Collaboration/Project or Any
 
 
 ## 📊 GitHub Stats
-![John's Stats](https://github-readme-stats.vercel.app/api?username=hvqu4n&theme=graywhite&show_icons=true&hide_border=false&count_private=true)
-![John's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hvqu4n&theme=graywhite&hide_border=false)
-
-### 🚀 My Projects
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=hvqu4n&repo=snowplow-server-tracker)](https://github.com/hvqu4n/snowplow-server-tracker)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=hvqu4n&repo=education-connection)](https://github.com/hvqu4n/education-connection)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hvqu4n&theme=graywhite&show_icons=true&hide_border=false&count_private=true" alt="John's Stats" style="display: inline-block; margin-right: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hvqu4n&theme=graywhite&hide_border=false" alt="John's Streak" style="display: inline-block;" />
+</div>
